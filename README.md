@@ -1,5 +1,5 @@
 <h1>BoloBolo</h1>
 
 <p align="center">
-<img src="https://github.com/bolobolo/assets//assets/image/Hibiscus.png?raw=true"
+<img src="https://github.com/Aldo-V/bolobolo/blob/main/bolobolo/assets/Logo/Bolobolo.png?raw=true"
 </p>
